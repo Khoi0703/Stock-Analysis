@@ -52,9 +52,3 @@ Model performance is evaluated based on Mean Squared Error, Mean Absolute Error,
 Potential improvements include:
 - Expanding the dataset to include additional market factors.
 - Testing additional machine learning models for better predictive accuracy.
-
-### 8. References
-
-Refer to the [full project on GitHub](https://github.com/llThanell/Stock-Analysis) for complete code, datasets, and visualizations.
-
----
