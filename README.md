@@ -1,6 +1,3 @@
-# Stock-Analysis
----
-
 # Stock Market Analysis - VN30 Index
 
 This Jupyter Notebook provides an analysis of the VN30 index, which comprises the 30 largest-cap stocks on the Ho Chi Minh Stock Exchange (HOSE) in Vietnam. The aim of this project is to explore and analyze stock data, focusing on buy prices, sell prices, and transaction volumes to gain insights into market behavior.
